@@ -1,0 +1,5 @@
+requests>=2.32.0
+certifi>=2024.7.4
+cryptography>=42.0.0
+dnspython>=2.6.1
+python-whois>=0.9.4
